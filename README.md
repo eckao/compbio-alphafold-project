@@ -5,5 +5,5 @@ Project Members: Asheeta Bothra (<ab3wjt@virginia.edu>), Emily Kao (<eck3pxj@vir
 3. [Shortcomings of AlphaFold](https://eckao.github.io/compbio-alphafold-project/shortcomings)
 4. [References](https://eckao.github.io/compbio-alphafold-project/references)  
 
-![AlphaFold Image](./assets/alphafold_image.jpeg "AlphaFold Image")  
+![AlphaFold Image](./docs/assets/alphafold_image.jpeg "AlphaFold Image")  
 why isn't this image showing up!!!
