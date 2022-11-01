@@ -1,2 +1,3 @@
 # compbio-alphafold-project
-Here is the site for our project. 
+[About the project](https://eckao.github.io/compbio-alphafold-project/about).
+
