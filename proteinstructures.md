@@ -1,7 +1,5 @@
 # Introduction to Proteins and their Structures  
 ## What is a protein? <br>
-Proteins are biomolecules made up of amino acids, the sequence of which determines the structure and function of each protein. In biological systems, proteins play complex and critical roles, larely responsible for structure, function, and regulation of a system’s tissues and organs.
-
 ## Orders of protein structure
 ### 1. Primary
 Primary structure is the sequence of amino acids making up a polypeptide chain. 
@@ -41,6 +39,7 @@ Tertiary structure results from interactions between the R groups of the amino a
 <img src="./docs/assets/tertiary.png" alt="Tertiary Structures Image" width="400"/>
 
 ### 4. Quaternary
-While many proteins are made of a singular polypeptide chain and have three structural levels, some are made up of multiple chains or subunits. When the subunits come together, a protein gets its quaternary structure. The types of interactions that are part of tertiary structures are usually the same ones that hold subunits together that give proteins quaternary structure. This involves interactions such as London disperson forces and hydrogen bonding.
+While many proteins are made of a singular polypeptide chain and have three structural levels, some are made up of multiple chains or subunits. When the subunits come together, a protein gets its quaternary structure. The types of interactions that are part of tertiary structures are usually the same ones that hold subunits together that give proteins quaternary structure. This involves interactions such as London disperson forces and hydrogen bonding.  
 
-<img src="./docs/assets/quaternary_structure.png" alt="Quaternary Structure Image" width="400"/>
+## The Protein Folding Problem  
+Meesha will put a paragraph here
