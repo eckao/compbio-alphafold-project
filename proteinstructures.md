@@ -14,7 +14,7 @@ Amino acids usually have the following structural properties:
 <img src="./docs/assets/primarystructure.png" alt="Primary Structure Image" width="500"/>
 
 ### 2. Secondary
-Secondary structure is  local folded structures that form within a polypeptide resulting from interactions between atoms of the backbone. The backbone refers to the polypeptide chain not including the R group.  
+Secondary structure is local folded structures that form within a polypeptide resulting from interactions between atoms of the backbone. The backbone refers to the polypeptide chain not including the R group.  
 
 There are two types of secondary structures seen in proteins.
 - alpha (α) helix - looks like a coiled spring
@@ -23,4 +23,5 @@ There are two types of secondary structures seen in proteins.
 <img src="./docs/assets/alpha_beta.jpeg" alt="Secondary Structures Image" width="500"/>
 
 ### 3. Tertiary
+Tertiary structure results from interactions between the R groups of the amino acids that make up the protein. This is the overall three-dimensional structure of a polypeptide. 
 ### 4. Quaternary
