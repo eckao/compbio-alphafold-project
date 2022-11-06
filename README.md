@@ -6,7 +6,7 @@ Project Members: Asheeta Bothra (<ab3wjt@virginia.edu>), Emily Kao (<eck3pxj@vir
 2. [Proteins and the Protein-Folding Problem](https://eckao.github.io/compbio-alphafold-project/proteinstructures)
 3. [What is AlphaFold?](https://eckao.github.io/compbio-alphafold-project/alphafold)
 4. [Limitations of AlphaFold](https://eckao.github.io/compbio-alphafold-project/shortcomings). 
-5. Identifying Sequence Motifs to Better Predict Folding
-5. [References](https://eckao.github.io/compbio-alphafold-project/references)  
+5. [Identifying Sequence Motifs to Better Predict Folding](https://eckao.github.io/compbio-alphafold-project/bindingmotifs)
+6. [References](https://eckao.github.io/compbio-alphafold-project/references)  
 
 ![AlphaFold Image](./docs/assets/alphafold_image.jpeg "AlphaFold Image")  
