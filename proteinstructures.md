@@ -39,3 +39,4 @@ Tertiary structure results from interactions between the R groups of the amino a
 <img src="./docs/assets/tertiary.png" alt="Tertiary Structures Image" width="400"/>
 
 ### 4. Quaternary
+While many proteins are made of a singular polypeptide chain and have three structural levels, some are made up of multiple chains or subunits. When the subunits come together, a protein gets its quaternary structure. The types of interactions that are part of tertiary structures are usually the same ones that hold subunits together that give proteins quaternary structure. This involves interactions such as London disperson forces and hydrogen bonding.
