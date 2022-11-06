@@ -36,6 +36,6 @@ Tertiary structure results from interactions between the R groups of the amino a
   - Disulfide bond are covalent linkages between sulfur-containing side chains of cysteines
     - Stronger than the other types of bonds that contribute to tertiary structure
 
-<img src="./docs/assets/tertiary.jpeg" alt="Tertiary Structures Image" width="500"/>
+<img src="./docs/assets/tertiary.png" alt="Tertiary Structures Image" width="500"/>
 
 ### 4. Quaternary
