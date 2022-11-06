@@ -11,6 +11,8 @@ Amino acids usually have the following structural properties:
 - An Amino group (-NH2)
 - A "R" group or "variable" group  
 
+<img src="./docs/assets/primarystructure.png" alt="Primary Structure Image" width="500"/>
+
 ### 2. Secondary
 Secondary structure is  local folded structures that form within a polypeptide resulting from interactions between atoms of the backbone. The backbone refers to the polypeptide chain not including the R group.  
 
@@ -18,7 +20,7 @@ There are two types of secondary structures seen in proteins.
 - alpha (α) helix - looks like a coiled spring
 - beta (β) pleated sheet - looks like its folded or pleated 
 
-![Secondary Structures](./docs/assets/alpha_beta.jpeg "Secondary Structures Image")  
+<img src="./docs/assets/alpha_beta.jpeg" alt="Secondary Structures Image" width="500"/>
 
 ### 3. Tertiary
 ### 4. Quaternary
