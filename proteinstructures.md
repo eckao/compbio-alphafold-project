@@ -17,5 +17,8 @@ Secondary structure is  local folded structures that form within a polypeptide r
 There are two types of secondary structures seen in proteins.
 - alpha (α) helix - looks like a coiled spring
 - beta (β) pleated sheet - looks like its folded or pleated 
+
+![Secondary Structures](./docs/assets/alpha_beta.jpeg "Secondary Structures Image")  
+
 ### 3. Tertiary
 ### 4. Quaternary
