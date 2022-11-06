@@ -24,4 +24,18 @@ There are two types of secondary structures seen in proteins.
 
 ### 3. Tertiary
 Tertiary structure results from interactions between the R groups of the amino acids that make up the protein. This is the overall three-dimensional structure of a polypeptide. 
+- Non-covalent bonds influencing interactions:
+  - hydrogen bonding
+  - ionic bonding
+  - dipole-dipole interactions
+  - London dispersion forces 
+  - Hydrogen bonding 
+- Hydrophobic interactions
+  - nonpolar, hydrophobic R groups cluster on inside of protein, while hydrophilic amino acids are on the outside interacting with surrounding water
+- Covalent bond
+  - Disulfide bond are covalent linkages between sulfur-containing side chains of cysteines
+    - Stronger than the other types of bonds that contribute to tertiary structure
+
+<img src="./docs/assets/tertiary.jpeg" alt="Tertiary Structures Image" width="500"/>
+
 ### 4. Quaternary
