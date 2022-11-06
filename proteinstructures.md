@@ -1,5 +1,7 @@
 # Proteins and the Protein-Folding Problem: Introduction to Proteins and their Structures  
 ## What is a protein? <br>
+Proteins are biomolecules made up of amino acids, the sequence of which determines the structure and function of each protein. In biological systems, proteins play complex and critical roles, larely responsible for structure, function, and regulation of a system’s tissues and organs.
+
 ## Orders of protein structure
 ### 1. Primary
 Primary structure is the sequence of amino acids making up a polypeptide chain. 
