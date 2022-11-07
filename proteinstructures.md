@@ -1,4 +1,4 @@
-# Proteins and the Protein-Folding Problem: Introduction to Proteins and their Structures  
+# Proteins and the Protein-Folding Problem
 ## What is a protein? 
 Proteins are biomolecules made up of amino acids, the sequence of which determines the structure and function of each protein. In biological systems, proteins play complex and critical roles, larely responsible for structure, function, and regulation of a system’s tissues and organs.
 
