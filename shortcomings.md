@@ -1,5 +1,5 @@
 # Shortcomings of AlphaFold
-Protein folding problem
+Protein folding problem https://faculty.cc.gatech.edu/~turk/bio_sim/articles/proteins_levinthal_1969.pdf
 - deemed intractable since degrees of freedom in peptide bonds create very high number of possibilities
 - sequential sampling would take longer than the age of the universe, even for small protein domain.
   
@@ -9,7 +9,7 @@ Alphafold
 - does poorly on natively unfolded regions or sequences where there are less sequences available for alignment
 - gives indication of dynamic movement between the domains 
   
-Limitations
+Limitations https://www.embopress.org/doi/full/10.15252/embr.202154046
 - metal ions, cofactors, other ligands
 - post-translational modifications (glycosylation, phosphorylation, DNA/RNA/complexes) 
 - but it does correctly predict HGB chain – demonstrates that it has learned results of folding at the AA residue contact level
