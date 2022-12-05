@@ -44,4 +44,13 @@ Tertiary structure results from interactions between the R groups of the amino a
 While many proteins are made of a singular polypeptide chain and have three structural levels, some are made up of multiple chains or subunits. When the subunits come together, a protein gets its quaternary structure. The types of interactions that are part of tertiary structures are usually the same ones that hold subunits together that give proteins quaternary structure. This involves interactions such as London disperson forces and hydrogen bonding.  
 
 ## The Protein Folding Problem  
-Meesha will put a paragraph here
+The protein-folding problem first emerged around 50 years ago, and consists of three general questions:
+1. The folding code: what is the code that determines a protein's structure for a given amino acid sequence?
+2. The folding mechanism: what is the process that allows proteins to fold quickly?
+3. Protein structure prediction: can we formulate a computer algorithm to predict the native structure of a protein from its amino acid sequences?
+
+The idea of a folding problem came up in 1960 with the first appearance of atomic-resolution protein structures. There had been some expectation of internal crystalline regularity, and Linus Pauling had predicted the presence of α-helices. However, the first protein structures to be realized were globins, and they unexpectedly had helices packed together irregularly. 
+
+In his thermodynamic hypothesis, Anfinsen proposed that the native structure of a protein is in face the thermodynamically stable structure. With this, Anfinsen stated that the structure of a protein solely depends on the amino acid sequence and the conditions of the solution rather than the folding route. This led to two notable conclusions in protein science, as it 1) facilitated research of in vitro protein folding and 2) implied that evolution can alter amino acid sequences, but the folding equilibrium and kinetics of sequences are related to chemistry. 
+
+In the 1980s, statistical mechanical modeling led to the emergence of a new view on the protein folding code in which the hydrophobic interaction is the dominant component. There are a number of points that justify this new theory: 1) proteins have hydrophobic cores, suggesting that nonpolar amino acids separate from water; 2) model compound studies show 1-2 kcal/mol for transferring a transferring a hydrophobic side chain from water to oil-like substances; 3) proteins easily denature in nonpolar solvents; and d) when sequences are scrambled and maintain the correct hydrophobic and polar patterns, they fold to the expected native structures.
