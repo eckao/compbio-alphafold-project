@@ -14,7 +14,7 @@ In addition to the final structure, Alphafold outputs 2 confidence metrics.
 1. Predicted lDDT. This is the Alphafold prediction of per-residue local distance difference test (lDDT), which is closely related to lDDT. This measures percentage of correctly predicted interatomic distances and is represented both through a colored diagram of the final structure where the final structure is colored by confidence bands and a line chart. Values may range from 1-100, where a higher p indicates greater confidence in the structures. Predicted lDDT is used to identify protein domains and potentially disordered regions or to assess confidence within a domain. It is less useful for understanding confidence in relative positions of domains.  
 2. Predicted Aligned Error (PAE). This measures confidence in the lreative positions of the pairs of residues. This is used to assess relative domain position but is applicable whenever pairwise confidence is relevant. The PAE is represented as a 2D plot with residue numbers on the axis. A high value indicates lower confidence. Domain structure is visible in areas with higher confidence relative to other areas.
 
-<img src="./docs/assets/alphfold_diagram.png" alt="AlphaFold 2 Diagram" width="700"/>
+<img src="./docs/assets/alphafold_diagram.png" alt="AlphaFold 2 Diagram" width="700"/>
 
 https://www.ebi.ac.uk/training/events/how-interpret-alphafold-structures/  
 https://www.nature.com/articles/s41586-021-03819-2
