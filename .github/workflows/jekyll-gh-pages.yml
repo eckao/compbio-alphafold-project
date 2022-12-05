@@ -36,6 +36,10 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
+    run-name: pages-themes/cayman@v0.2.0
+    plugins:
+    - jekyll-remote-theme
+
 
   # Deployment job
   deploy:
@@ -48,6 +52,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-  run-name: pages-themes/cayman@v0.2.0
-  plugins:
-  - jekyll-remote-theme
+
