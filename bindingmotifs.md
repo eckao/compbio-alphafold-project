@@ -1,5 +1,6 @@
 # Identifying Sequence Motifs to Better Predict Folding  
 Different proteins are related structurally and functionally to eachother through protein motifs, or small shared regions of protein structure of amino acid sequences. These motifs are frequently, but not always, defined by a unique chemical or biological function. Many enzymatic active sites are motifs. An example include INSERT EXAMPLE HERE. Protein domains are functionally similar regions that appear in many different proteins, such as the calcium-binding region of many different proteins modulated by Ca2+. Genes that encode proteins with similar domains are referred to as a gene family. We can swap protein domains through genetic engineering to create freak chimeric proteins with novel functions based on the known activity of different protein domains.  
+
 Sequence motif algorithms are used to describe and identify sequences that are structurally or functionally similar across a number of different sequences. These algorithms help us find patterns in biopolymer sequences, such as nucleotide or amino acid sequences. 
 Biological sequence motifs are presented either as regular expressions (RE) or position weight matrices (PWM)
 - RE – a way to describe sequence patterns by defining a a sequence expression that a sequence motif would match. 
@@ -18,6 +19,8 @@ Application of motif discovery algorithms follows the same few general steps reg
 - Evaluate the results of the algorithm through an investigation of the biological function and relevance of the motifs the algorithm returns
 
 Sequence motif discovery algorithms are limited in a few ways. Motif discovery is basically a “needle-in-a-haystack” endeavour, where the motif is the needle and the sequences are the haystack. Because of this, it’s almost impossible to find motifs if they’re not overrepresented in the input set. Less common motifs are essentially lost as a result. 
+
+Sequence and structure-based motif identification methods are limited by the fact that a single motif could be represented by many different binding patterns or that biologically relevant motifs might not exist as a contiguous amino acid sequence within a larger polypeptide chain due to protein folding that creates different protein domains. 
 
 
 Virtual Screening Strategies in Drug Discovery: A Critical Review | Bentham Science 
