@@ -1,13 +1,16 @@
 # Identifying Sequence Motifs to Better Predict Folding  
 Different proteins are related structurally and functionally to eachother through protein motifs, or small shared regions of protein structure of amino acid sequences. These motifs are frequently, but not always, defined by a unique chemical or biological function. Many enzymatic active sites are motifs. An example include INSERT EXAMPLE HERE. Protein domains are functionally similar regions that appear in many different proteins, such as the calcium-binding region of many different proteins modulated by Ca2+. Genes that encode proteins with similar domains are referred to as a gene family. We can swap protein domains through genetic engineering to create freak chimeric proteins with novel functions based on the known activity of different protein domains.
 <p align="center">  
-  <img src="./docs/assets/Domains-Motifs.jpeg" alt="Protein Domains vs Motifs" width="400"/>    
-  Taken from https://www.researchgate.net/publication/344391925_Uncovering_protein_structure.  
- </p">
-
+  <img src="./docs/assets/Domains-Motifs.jpeg" alt="Protein Domains vs Motifs" width="400"/>      
+</p">
+<p align="center">
+Taken from https://www.researchgate.net/publication/344391925_Uncovering_protein_structure.
+</p">
 Sequence motif algorithms are used to describe and identify sequences that are structurally or functionally similar across a number of different sequences. These algorithms help us find patterns in biopolymer sequences, such as nucleotide or amino acid sequences.  
 <p align="center">   
-  <img src="./docs/assets/sequence-motifs.png" alt="A Visual Representation of a DNA Sequence Motif" width="400"/>   
+  <img src="./docs/assets/sequence-motifs.png" alt="A Visual Representation of a DNA Sequence Motif" width="400"/>
+</p">
+<p align="center">
   Taken from https://en.wikipedia.org/wiki/Sequence_logo.  
 </p> 
 
