@@ -1,6 +1,6 @@
 # Proteins and the Protein-Folding Problem
 ## What is a protein? 
-Proteins are biomolecules made up of amino acids, the sequence of which determines the structure and function of each protein. In biological systems, proteins play complex and critical roles, and are largely responsible for structure, function, and regulation of a system’s tissues and organs. You have likely heard of enzymes which are catalysts for important chemical reactions--these are also proteins! 
+Proteins are biomolecules made up of amino acids, the sequence of which determines the structure and function of each protein. In biological systems, proteins play complex and critical roles, and are largely responsible for structure, function, and regulation of a system’s tissues and organs. You have likely heard of enzymes which are catalysts for important chemical reactions--these are also proteins! A protein's function is determined by its structure which is why its shape, and being able to predict it is so important. 
 
 ## Orders of protein structure
 ### 1. Primary
