@@ -15,3 +15,4 @@ Project Members: Asheeta Bothra (<ab3wjt@virginia.edu>), Emily Kao (<eck3pxj@vir
 5. [References](https://eckao.github.io/compbio-alphafold-project/references)  
 
 ![AlphaFold Image](./docs/assets/alphafold_image.jpeg "AlphaFold Image")  
+Image source: <https://scitechdaily.com/deepmind-ai-powers-major-scientific-breakthrough-alphafold-generates-3d-view-of-the-protein-universe/>
