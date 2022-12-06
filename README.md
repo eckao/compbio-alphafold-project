@@ -9,9 +9,9 @@ Understanding the 3D structure of proteins is incredibly useful, as proteins for
   
 Project Members: Asheeta Bothra (<ab3wjt@virginia.edu>), Emily Kao (<eck3pxj@virginia.edu>), Meesha Vullikanti (<rv6cun@virginia.edu>) <br>  
 1. [Proteins and the Protein-Folding Problem](https://eckao.github.io/compbio-alphafold-project/proteinstructures)
-2. [What is AlphaFold?](https://eckao.github.io/compbio-alphafold-project/alphafold)
-3. [Successes and Limitations of AlphaFold](https://eckao.github.io/compbio-alphafold-project/shortcomings). 
-4. [Identifying Sequence Motifs to Better Predict Folding](https://eckao.github.io/compbio-alphafold-project/bindingmotifs)
+2. [Identifying Sequence Motifs to Better Predict Folding](https://eckao.github.io/compbio-alphafold-project/bindingmotifs)
+3. [What is AlphaFold?](https://eckao.github.io/compbio-alphafold-project/alphafold)
+4. [Successes and Limitations of AlphaFold](https://eckao.github.io/compbio-alphafold-project/shortcomings).  
 5. [References](https://eckao.github.io/compbio-alphafold-project/references)  
 
 ![AlphaFold Image](./docs/assets/alphafold_image.jpeg "AlphaFold Image")  
