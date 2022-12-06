@@ -20,8 +20,14 @@ Biological sequence motifs are presented either as regular expressions (RE) or p
 - PWMs – define the probability of each letter in the alphabet occurring at that position. This is just an n * w matrix, where n is the number of letters in the sequence alphabet and w is the number of positions in the motif. Pi,j is the probability of letter i occurring at position j in the motif. The probability of a full sequence is the product of the corresponding entries in the PWM. 
 <p align="center">  
   <img src="./docs/assets/regex.gif" alt="Regular Expression Sequence Motif Search" width="400"/>. 
-  Taken from https://www.sciencedirect.com/science/article/pii/S1570866707000032.
-  <img src="./docs/assets/pwm.jpeg" alt="Position Weight Matrices for Sequence Motif Search" width="400"/>  
+</p">
+<p align="center">
+  Taken from https://www.sciencedirect.com/science/article/pii/S1570866707000032.  
+</p>
+<p align="center">
+  <img src="./docs/assets/pwm.jpeg" alt="Position Weight Matrices for Sequence Motif Search" width="400"/>
+</p>
+<p align="center">
   Taken from https://www.researchgate.net/publication/347760573_A_Review_About_Transcription_Factor_Binding_Sites_Prediction_Based_on_Deep_Learning.  
 </p>
 
