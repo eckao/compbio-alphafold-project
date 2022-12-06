@@ -1,4 +1,4 @@
-# An Exploration of AlphaFold: CS 4501 Final Project Fall 2022  
+# An Exploration of AlphaFold: Test
 We have set out to make a fun (for us to do, and for others to see), useful (at least to us, but hopefully to you and others), relevant (to the class, to us, to humanity), and technically interesting project exploring an innovative program called AlphaFold.  
   
 Project Members: Asheeta Bothra (<ab3wjt@virginia.edu>), Emily Kao (<eck3pxj@virginia.edu>), Meesha Vullikanti (<rv6cun@virginia.edu>) <br>
