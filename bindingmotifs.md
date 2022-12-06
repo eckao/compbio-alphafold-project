@@ -1,13 +1,13 @@
 # Identifying Sequence Motifs to Better Predict Folding  
 Different proteins are related structurally and functionally to eachother through protein motifs, or small shared regions of protein structure of amino acid sequences. These motifs are frequently, but not always, defined by a unique chemical or biological function. Many enzymatic active sites are motifs. An example include INSERT EXAMPLE HERE. Protein domains are functionally similar regions that appear in many different proteins, such as the calcium-binding region of many different proteins modulated by Ca2+. Genes that encode proteins with similar domains are referred to as a gene family. We can swap protein domains through genetic engineering to create freak chimeric proteins with novel functions based on the known activity of different protein domains.
 <p align="center">  
-  <img src="./docs/assets/Domains-Motifs.jpeg" alt="Protein Domains vs Motifs" width="400"/>  
+  <img src="./docs/assets/Domains-Motifs.jpeg" alt="Protein Domains vs Motifs" width="400"/>    
   Taken from https://www.researchgate.net/publication/344391925_Uncovering_protein_structure.  
  </p">
 
 Sequence motif algorithms are used to describe and identify sequences that are structurally or functionally similar across a number of different sequences. These algorithms help us find patterns in biopolymer sequences, such as nucleotide or amino acid sequences.  
 <p align="center">   
-  <img src="./docs/assets/sequence-motifs.png" alt="A Visual Representation of a DNA Sequence Motif" width="400"/>  
+  <img src="./docs/assets/sequence-motifs.png" alt="A Visual Representation of a DNA Sequence Motif" width="400"/>    
   Taken from https://en.wikipedia.org/wiki/Sequence_logo.  
 </p> 
 
@@ -15,9 +15,9 @@ Biological sequence motifs are presented either as regular expressions (RE) or p
 - RE – a way to describe sequence patterns by defining a a sequence expression that a sequence motif would match. 
 - PWMs – define the probability of each letter in the alphabet occurring at that position. This is just an n * w matrix, where n is the number of letters in the sequence alphabet and w is the number of positions in the motif. Pi,j is the probability of letter i occurring at position j in the motif. The probability of a full sequence is the product of the corresponding entries in the PWM. 
 <p align="center">  
-  <img src="./docs/assets/regex.gif" alt="Regular Expression Sequence Motif Search" width="400"/>
+  <img src="./docs/assets/regex.gif" alt="Regular Expression Sequence Motif Search" width="400"/>. 
   Taken from https://www.sciencedirect.com/science/article/pii/S1570866707000032.
-  <img src="./docs/assets/pwm.jpeg" alt="Position Weight Matrices for Sequence Motif Search" width="400"/>
+  <img src="./docs/assets/pwm.jpeg" alt="Position Weight Matrices for Sequence Motif Search" width="400"/>  
   Taken from https://www.researchgate.net/publication/347760573_A_Review_About_Transcription_Factor_Binding_Sites_Prediction_Based_on_Deep_Learning.  
 </p>
 
@@ -38,7 +38,7 @@ Sequence motif discovery algorithms are limited in a few ways. Motif discovery i
 Structural motifs require a bit more effort as a result of the non-continuous nature of the amino acid sequences that make up the total motif, and require a completely natively folded protein structure for identification. This can be time-intensive and difficult to obtain, and it is this gap in knowledge that Alphafold seeks to bridge. 
 
 <p align="center">
-  <img src="./docs/assets/structure-motif.png" alt="Structural Motif Discovery" width="400"/>
+  <img src="./docs/assets/structure-motif.png" alt="Structural Motif Discovery" width="400"/>  
   Taken from https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-motif-search.  
 </p>  
 
