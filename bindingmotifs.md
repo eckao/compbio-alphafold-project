@@ -1,10 +1,10 @@
 # Identifying Sequence Motifs to Better Predict Folding  
-Different proteins are related structurally and functionally to eachother through protein motifs, or small shared regions of protein structure of amino acid sequences. These motifs are frequently, but not always, defined by a unique chemical or biological function. Many enzymatic active sites are motifs. An example include INSERT EXAMPLE HERE. Protein domains are functionally similar regions that appear in many different proteins, such as the calcium-binding region of many different proteins modulated by Ca2+. Genes that encode proteins with similar domains are referred to as a gene family. We can swap protein domains through genetic engineering to create freak chimeric proteins with novel functions based on the known activity of different protein domains.
+Different proteins are related structurally and functionally to eachother through protein motifs, or small shared regions of protein structure of amino acid sequences. These motifs are frequently, but not always, defined by a unique chemical or biological function. Many enzymatic active sites are motifs. Protein domains are functionally similar regions that appear in many different proteins, such as the calcium-binding region of many different proteins modulated by Ca2+. Genes that encode proteins with similar domains are referred to as a gene family. We can swap protein domains through genetic engineering to create freak chimeric proteins with novel functions based on the known activity of different protein domains.
 <p align="center">  
   <img src="./docs/assets/Domains-Motifs.jpeg" alt="Protein Domains vs Motifs" width="400"/>      
 </p">
 <p align="center">
-  **Protein Domains vs. Protein Motifs.** Taken from https://www.researchgate.net/publication/344391925_Uncovering_protein_structure.
+  Protein Domains vs. Protein Motifs. Taken from https://www.researchgate.net/publication/344391925_Uncovering_protein_structure.
 </p">
 
 Sequence motif algorithms are used to describe and identify sequences that are structurally or functionally similar across a number of different sequences. These algorithms help us find patterns in biopolymer sequences, such as nucleotide or amino acid sequences.  
@@ -12,7 +12,7 @@ Sequence motif algorithms are used to describe and identify sequences that are s
   <img src="./docs/assets/sequence-motifs.png" alt="A Visual Representation of a DNA Sequence Motif" width="400"/>
 </p">
 <p align="center">
-  **A Visual Representation of a DNA Sequence Motif.** Taken from https://en.wikipedia.org/wiki/Sequence_logo.  
+  A Visual Representation of a DNA Sequence Motif. Taken from https://en.wikipedia.org/wiki/Sequence_logo.  
 </p> 
 
 Biological sequence motifs are presented either as regular expressions (RE) or position weight matrices (PWM)
@@ -22,13 +22,13 @@ Biological sequence motifs are presented either as regular expressions (RE) or p
   <img src="./docs/assets/regex.gif" alt="Regular Expression Sequence Motif Search" width="400"/>. 
 </p">
 <p align="center">
-  **Regular Expression Sequence Motif Search.** Taken from https://www.sciencedirect.com/science/article/pii/S1570866707000032.  
+  Regular Expression Sequence Motif Search. Taken from https://www.sciencedirect.com/science/article/pii/S1570866707000032.  
 </p>
 <p align="center">
   <img src="./docs/assets/pwm.jpeg" alt="Position Weight Matrices for Sequence Motif Search" width="400"/>
 </p>
 <p align="center">
-  **Position Weight Matrices for Sequence Motif Search.** Taken from https://www.researchgate.net/publication/347760573_A_Review_About_Transcription_Factor_Binding_Sites_Prediction_Based_on_Deep_Learning.  
+  Position Weight Matrices for Sequence Motif Search. Taken from https://www.researchgate.net/publication/347760573_A_Review_About_Transcription_Factor_Binding_Sites_Prediction_Based_on_Deep_Learning.  
 </p>
 
 There are a few different techniques for motif discovery. These algorithms only find statistically significant sequences, not necessarily biologically relevant sequences. 
@@ -51,7 +51,7 @@ Structural motifs require a bit more effort as a result of the non-continuous na
   <img src="./docs/assets/structure-motif.png" alt="Structural Motif Discovery" width="400"/>  
 </p>
 <p align="center">
-  **Structural Motif Discovery.** Taken from https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-motif-search.  
+  Structural Motif Discovery. Taken from https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-motif-search.  
 </p>  
 
 
