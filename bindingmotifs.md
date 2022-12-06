@@ -49,6 +49,8 @@ Structural motifs require a bit more effort as a result of the non-continuous na
 
 <p align="center">
   <img src="./docs/assets/structure-motif.png" alt="Structural Motif Discovery" width="400"/>  
+</p>
+<p align="center">
   Taken from https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-motif-search.  
 </p>  
 
