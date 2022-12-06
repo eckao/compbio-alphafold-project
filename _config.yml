@@ -1,6 +1,6 @@
 title: Cayman theme
 show_downloads: true
-description: 
+description: : CS 4501 Final Project Fall 2022
 google_analytics:
 theme: jekyll-theme-cayman
 <a href="{{ "compbio-alphafold-project" | relative_url }}">compbio-alphafold-project</a>
