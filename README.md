@@ -1,5 +1,5 @@
 # An Exploration of AlphaFold: Test
-We have set out to make a fun (for us to do, and for others to see), useful (at least to us, but hopefully to you and others), relevant (to the class, to us, to humanity), and technically interesting project exploring an innovative program called AlphaFold.  
+We have set out to make a fun (for us to do, and for others to see), useful (at least to us, but hopefully to you and others), relevant (to the class, to us, to humanity), and technically interesting project exploring an innovative program called AlphaFold. This is a test.  
   
 Project Members: Asheeta Bothra (<ab3wjt@virginia.edu>), Emily Kao (<eck3pxj@virginia.edu>), Meesha Vullikanti (<rv6cun@virginia.edu>) <br>
 1. [About the project](https://eckao.github.io/compbio-alphafold-project/about)  
