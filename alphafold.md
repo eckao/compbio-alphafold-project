@@ -19,6 +19,5 @@ In addition to the final structure, Alphafold outputs 2 confidence metrics.
 
 Image Source: https://www.nature.com/articles/s41586-021-03819-2
 
-## AlphaFold 2
-https://www.ebi.ac.uk/training/events/how-interpret-alphafold-structures/  
-https://www.nature.com/articles/s41586-021-03819-2
+## AlphaFold 1 and AlphaFold 2
+AlphaFold 1 was DeepMind's initial foray into the CASP competitions. AlphaFold 1 was entered into the CASP13 competition in which it successfully predicted more FM domains with high accuracy than any other systems competing in CASP13. AlphaFold 2 is the second iteration of a protein predicting program from DeepMind. The results of AlphaFold 2 in CASP 14 was an even more impressive feat in which AlphaFold 2 vastly outperformed the 145 entrants in the competition. Approximately two-thirds of AlphaFold 2's predictions in this competition were comparable in quality to experimental structures and some were almost indistinguishable from experimental results. 
