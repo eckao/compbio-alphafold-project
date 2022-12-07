@@ -5,7 +5,7 @@ Different proteins are related structurally and functionally to eachother throug
 </p">
 <p align="center">
   Protein Domains vs. Protein Motifs. Image source: https://www.researchgate.net/publication/344391925_Uncovering_protein_structure
-
+<br />
 
 Sequence motif algorithms are used to describe and identify sequences that are structurally or functionally similar across a number of different sequences. These algorithms help us find patterns in biopolymer sequences, such as nucleotide or amino acid sequences.  
 <p align="center">   
