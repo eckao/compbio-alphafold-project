@@ -1,10 +1,11 @@
 # What is AlphaFold?
+## How does AlphaFold work?
 Alphafold uses 3 primary inputs derived from the input sequence to determine the final output.  
-1. Multiple Sequence Alignment. First is the multiple sequence alignment (MSA) for the input sequence. These are sequences that are evolutionarily related to the target sequence and are found by searching several publicly available databases, including [INSERT DATABASES HERE]. For a reasonably accurate protein structure, at least 30 sequences must be included in the MSA.  
+1. Multiple Sequence Alignment. First is the multiple sequence alignment (MSA) for the input sequence. These are sequences that are evolutionarily related to the target sequence and are found by searching several publicly available databases, including Big Fantastic Database (BFD) which was custom-made and has now been released publically. Other databases included the Protein Database (PDB) and Uniref90. For a reasonably accurate protein structure, at least 30 sequences must be included in the MSA.  
 2. Residue Pairs. The input sequence residues are paired against eachother in a matrix that represents the distance between residues.  
 3. Templates. These are protein database structures that are expected to be similar to the target sequence. These templates also feed into the MSA and residue pair arrays. Templates are most helpful when the MSA is small, and not every model requires a template.  
 
-These 3 inputs are then fed into several blocks that are collectively called “evoformer”, which is built upon concepts of transformers and attention [DISCUSS THIS MORE!]. The MSA and pair representations are repeatedly updated until they contain highly informative values about structure. The evoformer is run 48 times in total.  
+These 3 inputs are then fed into several blocks that are collectively called “evoformer”, which is built upon concepts of transformers and attention. The MSA and pair representations are repeatedly updated until they contain highly informative values about structure. The evoformer is run 48 times in total.  
 
 Next, the MSA and pair representation are fed through the structure model, which predicts a rotation and translation for each individual residue. The chi angles (or bond angles) between residues are predicted and a chain is formed here. This produces a structure that is biologically feasible, but to ensure that any violations of biological principles are removed, the structure is run through a relaxation step, which focuses on energy minimization and a low-entropy state.  
 
@@ -17,5 +18,6 @@ In addition to the final structure, Alphafold outputs 2 confidence metrics.
 <img src="./docs/assets/alphafold_diagram.png" alt="AlphaFold 2 Diagram" width="900"/>
 Image Source: https://www.nature.com/articles/s41586-021-03819-2
 
+## AlphaFold 2
 https://www.ebi.ac.uk/training/events/how-interpret-alphafold-structures/  
 https://www.nature.com/articles/s41586-021-03819-2
