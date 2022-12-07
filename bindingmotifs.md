@@ -12,7 +12,7 @@ Sequence motif algorithms are used to describe and identify sequences that are s
   <img src="./docs/assets/sequence-motifs.png" alt="A Visual Representation of a DNA Sequence Motif" width="400"/>
 
 <p align="center">
-  A Visual Representation of a DNA Sequence Motif. Taken from https://en.wikipedia.org/wiki/Sequence_logo.  
+  A Visual Representation of a DNA Sequence Motif. Image source: https://en.wikipedia.org/wiki/Sequence_logo
 </p> 
 
 Biological sequence motifs are presented either as regular expressions (RE) or position weight matrices (PWM)
