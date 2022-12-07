@@ -13,12 +13,10 @@
 ### AlphaFold
 - [How to interpret AlphaFold structure](https://www.ebi.ac.uk/training/events/how-interpret-alphafold-structures/)
 - [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+- [An Overview of Alphafold's Breakthrough]( https://www.frontiersin.org/articles/10.3389/frai.2022.875587/full#:~:text=AlphaFold%201%20proved%20that%20neural,equivariance%20knowledge%20in%20the%20model)
 
 ### Successes and Shortcomings of Alphafold  
 - [Nature: What's next for AlphaFold and the AI protein-folding revolution](https://www.nature.com/articles/d41586-022-00997-5#:~:text=AlphaFold%20deploys%20deep%2Dlearning%20neural,the%20PDB%20and%20other%20databases.)  
 - [Institute of Cancer Research: Reflecting on DeepMind’s AlphaFold artificial intelligence success](https://www.icr.ac.uk/blogs/the-drug-discoverer/page-details/reflecting-on-deepmind-s-alphafold-artificial-intelligence-success-what-s-the-real-significance-for-protein-folding-research-and-drug-discovery)  
 - [EMBO Press: The joys and perils of AlphaFold](https://www.embopress.org/doi/full/10.15252/embr.202154046)
-
-## Images
-- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)
-- [Khan Academy Protein Structures](https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/a/orders-of-protein-structure)
+- [An Overview of Alphafold's Breakthrough]( https://www.frontiersin.org/articles/10.3389/frai.2022.875587/full#:~:text=AlphaFold%201%20proved%20that%20neural,equivariance%20knowledge%20in%20the%20model)
