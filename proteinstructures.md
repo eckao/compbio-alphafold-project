@@ -14,6 +14,7 @@ Amino acids usually have the following structural properties:
 - A "R" group or "variable" group  
 
 <img src="./docs/assets/primarystructure.png" alt="Primary Structure Image" width="400"/>
+
 Image source: https://study.com/learn/lesson/primary-structure-protein.html
 
 ### 2. Secondary
@@ -24,6 +25,7 @@ There are two types of secondary structures seen in proteins.
 - beta (β) pleated sheet - looks like its folded or pleated 
 
 <img src="./docs/assets/alpha_beta.jpeg" alt="Secondary Structures Image" width="400"/>
+
 Image source: https://www.mun.ca/biology/scarr/MGA2_03-18b.html
 
 ### 3. Tertiary
@@ -41,12 +43,14 @@ Tertiary structure results from interactions between the R groups of the amino a
     - Stronger than the other types of bonds that contribute to tertiary structure
 
 <img src="./docs/assets/tertiary.png" alt="Tertiary Structures Image" width="400"/>
+
 Image source: https://www.drawittoknowit.com/course/biochemistry/glossary/biochemical-pathway/tertiary-structure
 
 ### 4. Quaternary
 While many proteins are made of a singular polypeptide chain and have three structural levels, some are made up of multiple chains or subunits. When the subunits come together, a protein gets its quaternary structure. The types of interactions that are part of tertiary structures are usually the same ones that hold subunits together that give proteins quaternary structure. This involves interactions such as London disperson forces and hydrogen bonding.  
 
 <img src="./docs/assets/quaternary_structure.png" alt="Quaternary Structure Image" width="400"/>
+
 Image source: https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/a/orders-of-protein-structure
 
 ## The Protein Folding Problem  
