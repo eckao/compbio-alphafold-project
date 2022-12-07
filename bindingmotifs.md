@@ -22,13 +22,13 @@ Biological sequence motifs are presented either as regular expressions (RE) or p
   <img src="./docs/assets/regex.gif" alt="Regular Expression Sequence Motif Search" width="400"/>. 
 </p">
 <p align="center">
-  Regular Expression Sequence Motif Search. Taken from https://www.sciencedirect.com/science/article/pii/S1570866707000032.  
+  Regular Expression Sequence Motif Search. Image source: https://www.sciencedirect.com/science/article/pii/S1570866707000032
 </p>
 <p align="center">
   <img src="./docs/assets/pwm.jpeg" alt="Position Weight Matrices for Sequence Motif Search" width="400"/>
 </p>
 <p align="center">
-  Position Weight Matrices for Sequence Motif Search. Taken from https://www.researchgate.net/publication/347760573_A_Review_About_Transcription_Factor_Binding_Sites_Prediction_Based_on_Deep_Learning.  
+  Position Weight Matrices for Sequence Motif Search. Image source: https://www.researchgate.net/publication/347760573_A_Review_About_Transcription_Factor_Binding_Sites_Prediction_Based_on_Deep_Learning.  
 </p>
 
 There are a few different techniques for motif discovery. These algorithms only find statistically significant sequences, not necessarily biologically relevant sequences. 
@@ -51,7 +51,7 @@ Structural motifs require a bit more effort as a result of the non-continuous na
   <img src="./docs/assets/structure-motif.png" alt="Structural Motif Discovery" width="400"/>  
 </p>
 <p align="center">
-  Structural Motif Discovery. Taken from https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-motif-search.  
+  Structural Motif Discovery. Image source: https://www.rcsb.org/docs/search-and-browse/advanced-search/structure-motif-search 
 </p>  
 
 
