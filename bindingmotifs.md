@@ -5,12 +5,12 @@ Different proteins are related structurally and functionally to eachother throug
 </p">
 <p align="center">
   Protein Domains vs. Protein Motifs. Image source: https://www.researchgate.net/publication/344391925_Uncovering_protein_structure
-</p">
+
 
 Sequence motif algorithms are used to describe and identify sequences that are structurally or functionally similar across a number of different sequences. These algorithms help us find patterns in biopolymer sequences, such as nucleotide or amino acid sequences.  
 <p align="center">   
   <img src="./docs/assets/sequence-motifs.png" alt="A Visual Representation of a DNA Sequence Motif" width="400"/>
-</p">
+
 <p align="center">
   A Visual Representation of a DNA Sequence Motif. Taken from https://en.wikipedia.org/wiki/Sequence_logo.  
 </p> 
@@ -20,7 +20,7 @@ Biological sequence motifs are presented either as regular expressions (RE) or p
 - PWMs – define the probability of each letter in the alphabet occurring at that position. This is just an n * w matrix, where n is the number of letters in the sequence alphabet and w is the number of positions in the motif. Pi,j is the probability of letter i occurring at position j in the motif. The probability of a full sequence is the product of the corresponding entries in the PWM. 
 <p align="center">  
   <img src="./docs/assets/regex.gif" alt="Regular Expression Sequence Motif Search" width="400"/>. 
-</p">
+
 <p align="center">
   Regular Expression Sequence Motif Search. Image source: https://www.sciencedirect.com/science/article/pii/S1570866707000032
 </p>
