@@ -16,6 +16,7 @@ In addition to the final structure, Alphafold outputs 2 confidence metrics.
 2. Predicted Aligned Error (PAE). This measures confidence in the lreative positions of the pairs of residues. This is used to assess relative domain position but is applicable whenever pairwise confidence is relevant. The PAE is represented as a 2D plot with residue numbers on the axis. A high value indicates lower confidence. Domain structure is visible in areas with higher confidence relative to other areas.
 
 <img src="./docs/assets/alphafold_diagram.png" alt="AlphaFold 2 Diagram" width="900"/>
+
 Image Source: https://www.nature.com/articles/s41586-021-03819-2
 
 ## AlphaFold 2
