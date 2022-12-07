@@ -10,6 +10,11 @@
 - [Discovering sequence motifs](https://pubmed.ncbi.nlm.nih.gov/18566768/#:~:text=Sequence%20motif%20discovery%20algorithms%20are,the%20molecules%20the%20sequences%20represent)  
 - [mebipred: identifying metal-binding potential in protein sequence](https://academic.oup.com/bioinformatics/article/38/14/3532/6594112)  
 
+### Successes and Shortcomings of Alphafold  
+- [Nature: What's next for AlphaFold and the AI protein-folding revolution](https://www.nature.com/articles/d41586-022-00997-5#:~:text=AlphaFold%20deploys%20deep%2Dlearning%20neural,the%20PDB%20and%20other%20databases.)  
+- [Institute of Cancer Research: Reflecting on DeepMind’s AlphaFold artificial intelligence success](https://www.icr.ac.uk/blogs/the-drug-discoverer/page-details/reflecting-on-deepmind-s-alphafold-artificial-intelligence-success-what-s-the-real-significance-for-protein-folding-research-and-drug-discovery)  
+- [EMBO Press: The joys and perils of AlphaFold](https://www.embopress.org/doi/full/10.15252/embr.202154046)
+
 ## Images
 - [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)
 - [Khan Academy Protein Structures](https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/a/orders-of-protein-structure)
